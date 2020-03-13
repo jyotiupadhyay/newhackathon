@@ -70,11 +70,5 @@
 
         </plugins>
     </build>
-  <repositories>
-     <repository>
-      <id>my-internal-site</id>
-      <url>watt-db1.workfusion.com/nexus/content/repositories/ml-sdk/</url>
-     </repository>
-    </repositories>
-
+ 
 </project>

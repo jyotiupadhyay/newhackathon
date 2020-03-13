@@ -69,13 +69,14 @@
             </plugin>
 
         </plugins>
-	    <distributionManagement>
+	    
+    </build>
+	<distributionManagement>
   <repository>
     <id>nexus</id>
     <url>http://52.66.21.100:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
-    </build>
  <repositories>
      <repository>
       <id>jboss</id>

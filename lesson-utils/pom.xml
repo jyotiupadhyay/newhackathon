@@ -11,7 +11,7 @@
 
     <groupId>com.workfusion.lab</groupId>
     <artifactId>lesson-utils</artifactId>
-    <version>5.0</version>
+    <version>1.0</version>
 
     <dependencies>
         <dependency>

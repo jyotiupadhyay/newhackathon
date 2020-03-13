@@ -70,5 +70,10 @@
 
         </plugins>
     </build>
- 
+ <repositories>
+     <repository>
+      <id>my-internal-site</id>
+      <url>watt-db1.workfusion.com/nexus/content/repositories/ml-sdk/com/workfusion/ml</url>
+     </repository>
+    </repositories>
 </project>
